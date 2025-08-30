@@ -1,7 +1,7 @@
 ## **Sales Performance Analysis**
 
 
-#**DESCRIPTION**
+# **DESCRIPTION**
 A comprehensive data analysis and visualization project built in Python to derive actionable business insights from a year's worth of sales data. This project demonstrates the end-to-end process of a Business Analyst, from data cleaning to building an interactive dashboard and presenting data-driven recommendations.
 
 #**PROJECT OVERVIEW**
